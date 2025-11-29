@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "69177ef9283c2a4f20347089"
+  },
+  "taskId": "TASK-83457",
+  "name": "Organize Boxes",
+  "description": "Use pallet jack to move pallets to clear room and sort into their respective bins.",
+  "location": "Warehouse 3",
+  "scheduledAt": {
+    "$date": "2025-11-14T14:00:00.000Z"
+  },
+  "status": "pending",
+  "assignedTo": {
+    "$oid": "6917aacfc2a32ef3517e7dc0"
+  },
+  "createdBy": {
+    "$oid": "6917aa90c2a32ef3517e7dbe"
+  },
+  "created": {
+    "$date": "2025-01-14T12:00:00.000Z"
+  },
+  "updated": null
+},
+{
+  "_id": {
+    "$oid": "69177fae283c2a4f2034708f"
+  },
+  "taskId": "TASK-83458",
+  "name": "Unload Truck",
+  "description": "Bring materials off truck and into the loading bay to be processed,",
+  "location": "Warehouse 3",
+  "scheduledAt": {
+    "$date": "2025-11-14T16:00:00.000Z"
+  },
+  "status": "pending",
+  "assignedTo": {
+    "$oid": "6917aacfc2a32ef3517e7dc0"
+  },
+  "createdBy": {
+    "$oid": "6917aa90c2a32ef3517e7dbe"
+  },
+  "created": {
+    "$date": "2025-01-14T12:00:00.000Z"
+  },
+  "updated": null
+},
+{
+  "_id": {
+    "$oid": "69178008283c2a4f20347091"
+  },
+  "taskId": "TASK-83434",
+  "name": "Oversee Warehouse 3",
+  "description": "Create a schedule and assign duties based on the floor manager's requests.",
+  "location": "Warehouse 3",
+  "scheduledAt": {
+    "$date": "2025-11-14T06:00:00.000Z"
+  },
+  "status": "pending",
+  "assignedTo": {
+    "$oid": "6917aa90c2a32ef3517e7dbe"
+  },
+  "createdBy": {
+    "$oid": "6917919fafe03f455106734c"
+  },
+  "created": {
+    "$date": "2025-01-14T05:00:00.000Z"
+  },
+  "updated": null
+}]
