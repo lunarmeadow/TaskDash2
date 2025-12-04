@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "concurrently \"yarn:client\" \"yarn:server\"",
+    "start": "concurrently \"npm:client\" \"npm:server\"",
     "client": "cd client && yarn dev",
     "server": "cd server && nodemon server.js",
     "test": "jest"
