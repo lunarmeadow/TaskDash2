@@ -1,3 +1,4 @@
+import express from 'express'
 import app from './express.js'
 import config from './config/config.js'
 import path from 'path'
