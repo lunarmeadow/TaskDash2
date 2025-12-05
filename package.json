@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "concurrently \"npm:client\" \"npm:server\"",
-    "client": "cd client && yarn dev",
-    "server": "cd server && nodemon server.js",
-    "test": "jest"
+    "start": "node server.js",
+    "heroku-postbuild": "cd client/ && npm install && npm run build"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
