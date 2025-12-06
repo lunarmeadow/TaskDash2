@@ -51,7 +51,7 @@ export default function Home() {
               </Typography>
             </Box>
             <Typography variant="h3" gutterBottom>
-              Welcome to Test Test Test!
+              Welcome to TaskDash!
             </Typography>
             <Typography variant="h6" color="text.secondary" gutterBottom>
               Smart task scheduling and employee management to keep your
