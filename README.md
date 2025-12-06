@@ -34,3 +34,9 @@ To set task assigners/assignees:
 Admin: 6917919fafe03f455106734c
 Manager: 6917aa90c2a32ef3517e7dbe
 Employee: 6917aacfc2a32ef3517e7dc0
+
+
+## Project Management
+
+View our Jira board here:  
+🔗 https://lunarashley777.atlassian.net/jira/software/projects/SCRUM/boards/1
